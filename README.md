@@ -47,12 +47,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Weichky/Weichky/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/Weichky/count.svg?"  />
 </div>
