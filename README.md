@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is Weichky!</h2>
 
+I don't use GitHub very often, so I tend to upload entire projects at once. That's why it may not seem very active.
+
 ###
 
 <div align="center">
