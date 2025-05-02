@@ -2,11 +2,14 @@
 
 I don't use GitHub very often, so I tend to upload entire projects at once. </p>That's why it may not seem very active.
 
-  <img src="https://github-readme-stats.vercel.app/api?username=weichky&hide=contribs"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weichky&langs_count=15&layout=donut-vertical" height=600px  />
+<div align="center">
+  <span><img src="https://github-readme-stats.vercel.app/api?username=weichky&hide=contribs"  /></span>
+  <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weichky&langs_count=15&layout=donut-vertical" height=600px  /></span>
+</div>
+
 </p>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
@@ -24,9 +27,7 @@ I don't use GitHub very often, so I tend to upload entire projects at once. </p>
   <img width="12" />
 </div>
 
-###
-
-<div align="left">
+<div align="center">
   <a href="https://twitter.com/Weichky" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
@@ -37,5 +38,3 @@ I don't use GitHub very often, so I tend to upload entire projects at once. </p>
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
-
-###
