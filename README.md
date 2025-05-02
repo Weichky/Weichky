@@ -1,9 +1,10 @@
 <h2 align="left">Hi 👋! My name is Weichky!</h2>
 
-I don't use GitHub very often, so I tend to upload entire projects at once. That's why it may not seem very active.
+I don't use GitHub very often, so I tend to upload entire projects at once. </p>That's why it may not seem very active.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weichky&hide=contribs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weichky&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=weichky&hide=contribs"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weichky&langs_count=15&layout=donut-vertical" height=600px  />
+</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
