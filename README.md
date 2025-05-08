@@ -1,6 +1,6 @@
-<h2 align="center">Hi 👋! My name is Weichky!</h2>
+Hi 👋! My name is Weichky!
 
-<div align="center">I don't use GitHub very often, so I tend to upload entire projects at once. </p>That's why it may not seem very active.</div>
+I don't use GitHub very often, so I tend to upload entire projects at once. </p>That's why it may not seem very active.
 
 <div align="center">
   <span><img src="https://github-readme-stats.vercel.app/api?username=weichky&hide=contribs"  /></span>
