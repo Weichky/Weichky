@@ -4,7 +4,7 @@ I don't use GitHub very often, so I tend to upload entire projects at once. That
 
 <div align="center">
   <span><img src="https://github-readme-stats.vercel.app/api?username=weichky&hide=contribs" width=400px /></span><p>
-  <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weichky&langs_count=16&layout=donut-vertical" height=600px width=600px /></span>
+  <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weichky&langs_count=16&layout=donut-vertical"width=400px /></span>
 </div>
 
 </p>
