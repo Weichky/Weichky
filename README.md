@@ -1,6 +1,12 @@
-**Hi 👋! My name is Weichky!**
+Supposed to be studying Materials Science in SDU. Somehow ended up here.
 
-I don't use GitHub very often, so I tend to upload entire projects at once. That's why it may not seem very active.
+Occasionally plays with code, physics, and AI things I barely understand.
+
+I like making things work. Or at least pretending to.
+
+I don't push to GitHub that frequently — I usually upload everything in one go. So things might look a bit quiet sometimes.
+
+Please ignore my commit history. I'm shy.
 
 <div align="center">
   <span><img src="https://github-readme-stats.vercel.app/api?username=weichky&hide=contribs" width=400px /></span><p>
