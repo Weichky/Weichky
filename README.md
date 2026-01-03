@@ -8,11 +8,6 @@ I don't push to GitHub that frequently — I usually upload everything in one go
 
 Please ignore my commit history. I'm shy.
 
-<div align="center">
-  <span><img src="https://github-readme-stats.vercel.app/api?username=weichky&hide=contribs" width=400px /></span><p>
-  <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weichky&langs_count=16&layout=donut-vertical"width=400px /></span>
-</div>
-
 </p>
 
 <div align="center">
